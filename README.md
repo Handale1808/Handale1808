@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hanneri Kruger
 - 👀 I’m interested in coding, video games and animation
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning React and React Native
 - 💞️ I’m looking to collaborate on projects related to virtual reality production
 - 📫 How to reach me hannerikruger@gmail.com
 
